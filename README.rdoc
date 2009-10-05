@@ -1,6 +1,6 @@
 = searchable_paths
 
-Description goes here.
+Searchable paths
 
 == Note on Patches/Pull Requests
  
@@ -15,4 +15,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2009 Ari Lerner. See LICENSE for details.
+Copyright (c) 2009 Nate Murray, Ari Lerner. See LICENSE for details.

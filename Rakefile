@@ -5,11 +5,11 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "searchable_paths"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Add path searching}
+    gem.description = %Q{Add searchable paths to any class}
     gem.email = "arilerner@mac.com"
     gem.homepage = "http://github.com/auser/searchable_paths"
-    gem.authors = ["Ari Lerner"]
+    gem.authors = ["Nate Murray and Ari Lerner"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
